@@ -31,4 +31,4 @@ Please follow this [link](https://software.imagicastle.com:48877/download.php?ap
 
 ## Support
 
-Should you have any questions, please contact Minqi Chong at minqicho <i class="fa fa-at" aria-hidden="true"></i> usc DOT edu
+Should you have any questions, please contact Dr. Richard Leahy at leahy <i class="fa fa-at" aria-hidden="true"></i> sipi DOT usc DOT edu
